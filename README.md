@@ -1,4 +1,4 @@
-###HELLO, I'm Mathew! 👋
+### HELLO, I'm Mathew! 👋
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=deathlysamurai&color=ff69b4&style=plastic)
 [![linkedin](https://img.shields.io/badge/Linkedin-Resume-ff69b4?style=plastic&logo=linkedin)](https://www.linkedin.com/in/mathew-humphrey)
