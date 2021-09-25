@@ -1,4 +1,4 @@
-<div style="background-color: #ff69b4;"><h1>HELLO, I'm Mathew! 👋</h1></div>
+<div><h1 style="background-color: #ff69b4;">HELLO, I'm Mathew! 👋</h1></div>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=deathlysamurai&color=ff69b4&style=plastic)
 [![linkedin](https://img.shields.io/badge/Linkedin-Resume-ff69b4?style=plastic&logo=linkedin)](https://www.linkedin.com/in/mathew-humphrey)
