@@ -1,4 +1,6 @@
-### Hi there 👋
+### HELLO, I'm Mathew! 👋
+
+[![GitHub Views](https://komarev.com/ghpvc/?username=deathlysamurai&color=ff69b4&style=plastic)]
 
 <!--
 **deathlysamurai/deathlysamurai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
